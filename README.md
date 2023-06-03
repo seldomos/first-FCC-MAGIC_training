@@ -1,4 +1,4 @@
-# first-FCC-MAGIC_training
+# AI&ML materials library
 
 **Русский**
 
